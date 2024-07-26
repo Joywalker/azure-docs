@@ -107,7 +107,7 @@ There are a few exceptions and limitations to choosing a VM size:
 See the following table to learn more about supported series.
 
 | **Supported VM series** | **Category** | **Supported by** |
-|------------|------------|------------|------------|
+|------------|------------|------------|
 | [DDSv4](../virtual-machines/ddv4-ddsv4-series.md#ddsv4-series) | General purpose | Compute clusters and instance |
 | [Dv2](../virtual-machines/dv2-dsv2-series.md#dv2-series) | General purpose | Compute clusters and instance |
 | [Dv3](../virtual-machines/dv3-dsv3-series.md#dv3-series) | General purpose | Compute clusters and instance |
